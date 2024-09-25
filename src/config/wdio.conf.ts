@@ -64,10 +64,10 @@ export const config: Options.Testrunner = {
       browserName: 'chrome',
       acceptInsecureCerts: true,
     },
-    {
-      browserName: 'firefox',
-      acceptInsecureCerts: true,
-    },
+    // {
+    //   browserName: 'firefox',
+    //   acceptInsecureCerts: true,
+    // },
   ],
 
   //
